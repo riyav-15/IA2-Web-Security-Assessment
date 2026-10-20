@@ -4,9 +4,9 @@
 **Assessment:** Internal Assessment 2 (IA-2)  
 
 ### Team Members
-- **Krishna Rathod** — `16010125801`
-- **Riya Vikam** — `16010125802`
-- **Khushi Satam** — `16010125829`
+- **Krishna Rathod**
+- **Riya Vikam**
+- **Khushi Satam**
 
 ---
 
