@@ -37,7 +37,7 @@ This project conducts a focused security assessment of web application authentic
 
 | Practical | Focus Area | Brief Description & Outcome | Evidence Folder |
 | :--- | :--- | :--- | :--- |
-| **Practical 1** | **Username Enumeration** | Used Burp Intruder to compare login responses and identify a valid username in an authorized PortSwigger lab. The lab was successfully completed. | [practical-1-username-enumeration/](screenshots/practical-1-username-enumeration/) |
+| **Practical 1** | **Username Enumeration** | Used Burp Intruder to compare login responses and identify a valid username in an authorized PortSwigger lab. The lab was successfully completed. | [screenshots/practical-1-username-enumeration/](screenshots/practical-1-username-enumeration/) |
 | **Practical 2** | **Insecure Direct Object References (IDOR)** | Changed a user ID parameter in the authorized lab and accessed another user's account information, demonstrating an access-control weakness. The lab was successfully completed. | [screenshots/practical-2-idor/](screenshots/practical-2-idor/) |
 | **Practical 3** | **Session Security Assessment** | Inspected cookie attributes, logout behaviour, and account responses. The results did not conclusively establish a session-invalidation vulnerability. | [screenshots/practical-3-session-security/](screenshots/practical-3-session-security/) |
 
@@ -59,11 +59,11 @@ IA2-Web-Security-Assessment/
 │   ├── practical-2-idor/                      # Parameter manipulation, API key extraction, lab completion
 │   └── practical-3-session-security/          # Cookie attributes, logout headers, and Repeater tests
 │
-├── report/                                    # Final project report document (PDF / Word)
-│   └── .gitkeep
+├── report/                                    # Final academic assessment report
+│   └── Honors CSFL LAB CA Report.pdf
 │
-└── presentation/                              # Project defense presentation slide deck (PPTX / PDF)
-    └── .gitkeep
+└── presentation/                              # Project defense presentation slide deck
+    └── CSF IA2 PPT.pptx
 ```
 
 ---
@@ -71,9 +71,9 @@ IA2-Web-Security-Assessment/
 ## 6. Documentation & Deliverables
 
 - Detailed step-by-step procedures and technical analysis: [methodology.md](methodology.md)
-- Primary deliverables (to be added prior to submission):
-  - Academic Assessment Report: [`report/`](report/)
-  - Project Slide Deck: [`presentation/`](presentation/)
+- Primary Project Deliverables:
+  - **Academic Assessment Report:** [Honors CSFL LAB CA Report.pdf](report/Honors%20CSFL%20LAB%20CA%20Report.pdf)
+  - **Project Presentation Deck:** [CSF IA2 PPT.pptx](presentation/CSF%20IA2%20PPT.pptx)
 
 ---
 
